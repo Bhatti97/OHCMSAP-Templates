@@ -1,0 +1,31 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 22 Jul 2018 00:30:29 at https://d29u17ylf1ylz9.cloudfront.net/voopo-v1-tf.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://d29u17ylf1ylz9.cloudfront.net/voopo-v1-tf.html -O1 "D:\Dulla's Documents\WEB\Voppo" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:32:00	Error: 	"Forbidden" (403) at link https://d29u17ylf1ylz9.cloudfront.net/p2/fonts/glyphicons-halflings-regular.eot (from https://d29u17ylf1ylz9.cloudfront.net/p2/css/bootstrap.min.css)
+00:32:00	Error: 	"Forbidden" (403) at link https://d29u17ylf1ylz9.cloudfront.net/p2/fonts/glyphicons-halflings-regular.eot? (from https://d29u17ylf1ylz9.cloudfront.net/p2/css/bootstrap.min.css)
+00:32:00	Error: 	"Forbidden" (403) at link https://d29u17ylf1ylz9.cloudfront.net/p2/fonts/glyphicons-halflings-regular.woff2 (from https://d29u17ylf1ylz9.cloudfront.net/p2/css/bootstrap.min.css)
+00:32:00	Error: 	"Forbidden" (403) at link https://d29u17ylf1ylz9.cloudfront.net/p2/fonts/glyphicons-halflings-regular.woff (from https://d29u17ylf1ylz9.cloudfront.net/p2/css/bootstrap.min.css)
+00:32:00	Error: 	"Forbidden" (403) at link https://d29u17ylf1ylz9.cloudfront.net/p2/fonts/glyphicons-halflings-regular.ttf (from https://d29u17ylf1ylz9.cloudfront.net/p2/css/bootstrap.min.css)
+00:32:00	Error: 	"Forbidden" (403) at link https://d29u17ylf1ylz9.cloudfront.net/p2/fonts/glyphicons-halflings-regular.svg (from https://d29u17ylf1ylz9.cloudfront.net/p2/css/bootstrap.min.css)
+00:32:18	Error: 	"Forbidden" (403) at link https://d29u17ylf1ylz9.cloudfront.net/voopo-v1/chechout.html (from https://d29u17ylf1ylz9.cloudfront.net/voopo-v1/cart.html)
+00:32:32	Error: 	"Forbidden" (403) at link https://d29u17ylf1ylz9.cloudfront.net/voopo-v1/images/bg/9.jpg (from https://d29u17ylf1ylz9.cloudfront.net/voopo-v1/style.css)
+00:32:32	Error: 	"Forbidden" (403) at link https://d29u17ylf1ylz9.cloudfront.net/voopo-v1/images/bg/10.jpg (from https://d29u17ylf1ylz9.cloudfront.net/voopo-v1/style.css)
+00:32:32	Error: 	"Forbidden" (403) at link https://d29u17ylf1ylz9.cloudfront.net/voopo-v1/images/bg/11.jpg (from https://d29u17ylf1ylz9.cloudfront.net/voopo-v1/style.css)
+00:32:32	Error: 	"Forbidden" (403) at link https://d29u17ylf1ylz9.cloudfront.net/voopo-v1/images/bg/12.jpg (from https://d29u17ylf1ylz9.cloudfront.net/voopo-v1/style.css)
+00:32:32	Error: 	"Forbidden" (403) at link https://d29u17ylf1ylz9.cloudfront.net/voopo-v1/images/bg/13.jpg (from https://d29u17ylf1ylz9.cloudfront.net/voopo-v1/style.css)
+00:32:32	Error: 	"Forbidden" (403) at link https://d29u17ylf1ylz9.cloudfront.net/voopo-v1/images/bg/14.jpg (from https://d29u17ylf1ylz9.cloudfront.net/voopo-v1/style.css)
+00:32:32	Error: 	"Forbidden" (403) at link https://d29u17ylf1ylz9.cloudfront.net/voopo-v1/images/bg/15.jpg (from https://d29u17ylf1ylz9.cloudfront.net/voopo-v1/style.css)
+00:32:32	Error: 	"Forbidden" (403) at link https://d29u17ylf1ylz9.cloudfront.net/voopo-v1/images/bg/16.jpg (from https://d29u17ylf1ylz9.cloudfront.net/voopo-v1/style.css)
+00:32:32	Error: 	"Forbidden" (403) at link https://d29u17ylf1ylz9.cloudfront.net/voopo-v1/images/bg/17.jpg (from https://d29u17ylf1ylz9.cloudfront.net/voopo-v1/style.css)
+00:32:32	Error: 	"Forbidden" (403) at link https://d29u17ylf1ylz9.cloudfront.net/voopo-v1/images/bg/18.jpg (from https://d29u17ylf1ylz9.cloudfront.net/voopo-v1/style.css)
+00:32:32	Error: 	"Forbidden" (403) at link https://d29u17ylf1ylz9.cloudfront.net/voopo-v1/images/bg/19.jpg (from https://d29u17ylf1ylz9.cloudfront.net/voopo-v1/style.css)
+00:32:32	Error: 	"Forbidden" (403) at link https://d29u17ylf1ylz9.cloudfront.net/voopo-v1/images/bg/20.jpg (from https://d29u17ylf1ylz9.cloudfront.net/voopo-v1/style.css)
+00:32:32	Error: 	"Forbidden" (403) at link https://d29u17ylf1ylz9.cloudfront.net/voopo-v1/images/icons/select-arrow-down-2.png (from https://d29u17ylf1ylz9.cloudfront.net/voopo-v1/style.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 4 seconds : 161 links scanned, 140 files written (9484084 bytes overall) [8060610 bytes received at 65004 bytes/sec], 2108352 bytes transferred using HTTP compression in 38 files, ratio 28%, 12.3 requests per connection
+(20 errors, 0 warnings, 0 messages)
