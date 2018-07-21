@@ -1,4 +1,4 @@
 # OHCMSAP-Templates
 Two Html Templates
-*Voppo
-*Remark - Admin Panel
+1. Voppo
+2. Remark - Admin Panel
